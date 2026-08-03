@@ -31,7 +31,7 @@ int main()
     int index = -1;
     int index1 = -1;
 
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n && index1 == -1; i++)
     {
 
         for (int j = i + 1; j < n; j++)
@@ -47,8 +47,14 @@ int main()
         }
     }
 
-    printf("The indexes are: %d and %d", index1, index);
-    
+    if (index == -1)
+    {
+        printf("Index Not Found!!");
+    }
+
+    else
+        printf("The indexes are: %d and %d", index1, index);
+
     free(arr);
 
     arr = NULL;
