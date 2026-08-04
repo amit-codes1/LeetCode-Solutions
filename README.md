@@ -9,3 +9,5 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 
 ### Arrays:
 - Two Sum
+- Find Missing Elements
+- Palindrome Number
