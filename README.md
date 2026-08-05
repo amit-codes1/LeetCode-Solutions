@@ -11,3 +11,5 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Two Sum
 - Find Missing Elements
 - Palindrome Number
+- Median of Two Sorted Arrays
+- Reverse Integer
