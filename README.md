@@ -13,3 +13,4 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Palindrome Number
 - Median of Two Sorted Arrays
 - Reverse Integer
+- Merge Sorted Arrays
