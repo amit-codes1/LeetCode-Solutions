@@ -60,37 +60,18 @@ int main()
         scanf("%d", &nums[i]);
     }
 
-    int k = 0;
+    int k = 1;
 
-    for (int i = 0; i < numsSize; i++)
+    for (int i = 1; i < numsSize; i++)
     {
-        for (int j = i+1; j < numsSize; j++)
+        if (nums[i] != nums[k - 1])
         {
-            if (nums[i] != nums[j])
-            {
-                nums[j - 1] = nums[j];
-            }
+            nums[k] = nums[i];
+            k++;
         }
     }
 
-    for (int i = 0; i < numsSize; i++)
-    {
-        printf("%d  ",nums[i]);
-    }
-
-    for (int i = 0; i < numsSize; i++)
-    {
-        for (int j = 0 + i; j < numsSize; j++)
-        {
-            if (nums[j] != nums[i])
-            {
-                k++;
-                break;
-            }
-        }
-    }
-
-    return k + 1;
+    printf("%d", k);
 
     return 0;
 }
