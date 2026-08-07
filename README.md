@@ -4,6 +4,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 
 ## Topics Covered:
 - Array
+- Math
 
 ## Programs:
 
