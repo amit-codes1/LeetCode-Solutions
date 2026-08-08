@@ -15,6 +15,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Merge Sorted Arrays
 - Search Insert Position
 - First and Last Position of Target in Sorted Array(Binary Search)
+- Plus One
 
 ### Math:
 - Palindrome Number
