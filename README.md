@@ -5,6 +5,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 ## Topics Covered:
 - Array
 - Math
+- String
 
 ## Programs:
 
@@ -21,3 +22,6 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 ### Math:
 - Palindrome Number
 - Reverse Integer
+
+### String:
+- Length of the Last Word
