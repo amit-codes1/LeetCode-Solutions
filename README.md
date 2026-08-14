@@ -22,7 +22,9 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 ### Math:
 - Palindrome Number
 - Reverse Integer
+- Add Digits
 
 ### String:
 - Length of the Last Word
 - Valid Anagram
+- Find_index_of_the_First_Occurrence_in_String
