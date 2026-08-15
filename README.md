@@ -23,6 +23,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Palindrome Number
 - Reverse Integer
 - Add Digits
+-Pow
 
 ### String:
 - Length of the Last Word
