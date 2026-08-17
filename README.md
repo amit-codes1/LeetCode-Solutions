@@ -17,13 +17,15 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Search Insert Position
 - First and Last Position of Target in Sorted Array(Binary Search)
 - Plus One
-- Max Subarray and more...
+- Max Subarray 
+- Majority Element and more...
 
 ### Math:
 - Palindrome Number
 - Reverse Integer
 - Add Digits
--Pow
+- Pow
+- Single Number and more...
 
 ### String:
 - Length of the Last Word
