@@ -18,7 +18,8 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - First and Last Position of Target in Sorted Array(Binary Search)
 - Plus One
 - Max Subarray 
-- Majority Element and more...
+- Majority Element 
+- Summary Ranges and more...
 
 ### Math:
 - Palindrome Number
