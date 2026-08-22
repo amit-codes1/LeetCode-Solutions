@@ -51,6 +51,7 @@ int main()
             {
                 sprintf(ans[count], "%d->%d", start, end);
             }
+            
             else
             {
                 sprintf(ans[count], "%d", start);
