@@ -6,6 +6,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Array
 - Math
 - String
+- Linked List
 
 ## Programs:
 
@@ -33,3 +34,7 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Valid Anagram
 - Find_index_of_the_First_Occurrence_in_String
 - Roman_to_Int
+
+### Linked List:
+- Add two Numbers
+- Reverse the list
