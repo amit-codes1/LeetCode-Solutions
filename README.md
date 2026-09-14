@@ -21,7 +21,8 @@ This repository contains my **LeetCode Data Structures and Algorithms (DSA)** so
 - Max Subarray 
 - Majority Element 
 - Summary Ranges 
-- Intersection of two Arrays and more...
+- Intersection of two Arrays 
+- Peak Index in a Mountain Array and more...
 
 ### Math:
 - Palindrome Number
